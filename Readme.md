@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Helpers.cs](./CS/VoteApp/Helpers.cs)
+* **[Map.cs](./CS/VoteApp/Map.cs)**
+* [MapColorizer.cs](./CS/VoteApp/MapColorizer.cs)
+* [Program.cs](./CS/VoteApp/Program.cs)
+* [Results.cs](./CS/VoteApp/Results.cs)
+* [VotesPanel.cs](./CS/VoteApp/VotesPanel.cs)
+<!-- default file list end -->
 # Vote Applications
 
 
